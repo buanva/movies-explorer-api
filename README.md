@@ -15,3 +15,9 @@
 `npm run dev` — запускает сервер с hot-reload
 
 [Ссылка на репозиторий:] (https://github.com/buanva/movies-explorer-api)
+
+## Ссылки на проект
+
+IP-адрес 62.84.119.105
+
+Backend https://api.buanva.students.nomoredomains.rocks
