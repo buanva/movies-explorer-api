@@ -42,5 +42,5 @@ module.exports.updateUserProfile = (req, res, next) => {
 };
 
 module.exports.signout = (_, res) => {
-  res.clearCookie('jwt').end();
+  res.clearCookie('jwt').send({ signout: true });
 };
